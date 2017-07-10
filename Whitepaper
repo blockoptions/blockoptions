@@ -1,5 +1,3 @@
-
-
 BlockOptions
 
 1st Decentralized Binary Options Platform Powered By Ethereum Blockchain
@@ -11,94 +9,57 @@ Draft by Gary July the 5th 2017
 https://blockoptions.io
 
 
+
+
+
+
+
+
 Abstract.
 Binary options industry is a multi-billion market, just in Israel, binary options broker companies made $5 billion profit in 2016[1]. 
 
-When you buy a binary option from centralized brokers, you actually bet against the platform, the broker makes money when you lose. This means that the broker must make 
-
-sure it wins more than it loses[2], traders are playing an unfair game as broker/platform can cheat you by manipulating the price feed in their favor and block traders from 
-
-withdrawing. Many times you win the trade, but lost your money.
+When you buy a binary option from centralized brokers, you actually bet against the platform, the broker makes money when you lose. This means that the broker must make  
+sure it wins more than it loses[2], traders are playing an unfair game as broker/platform can cheat you by manipulating the price feed in their favor and block traders from withdrawing. Many times you win the trade, but lost your money.
 
 BlockOptions.io aim to build a independent and decentralised platform for binary options industry.
 a) Pure P2P market -  Traders bet against Bankrollers, BlockOptions.io makes profit by trade fee, not by profit share as traditional platform
 b) Guaranteed Payout - Payments are issued by smart contract direct to your ETH address, no one can block withdraws
 c) 100% Transparency and Provably Fair by getting assets price on blockchain, cheating on manipulating price feed impossiable 
-
 We will show you how we build this 100% onchain system, as we believe the foundations on ethereum blockchain are solid and can make a high user freindly Dapp based on it.
 
-
 1. Introduction
-BlockOptions.io is the first independent and decentralised binary options platform on Ethereum blockchain for binary options industry. We are not bet against traders but 
+BlockOptions.io is the first independent and decentralised binary options platform on Ethereum blockchain for binary options industry. We are not bet against traders but provide a larger catalog of assets maketplace by letting bankrollers creating varied asset contracts themselves on our platform, e.g. 70 seconds EUR/USD, 3 minutes BTC/USD, 8 hours GOLD, etc..
 
-provide a larger catalog of assets maketplace by letting bankrollers creating varied asset contracts themselves on our platform, e.g. 70 seconds EUR/USD, 3 minutes BTC/USD, 
-
-8 hours GOLD, etc..
-
-As the platform didn't make money by profit share but by per trade fee, we aim to provide the best binary options platform on the market by providing a provably fair, 
-
+As the platform didn't make money by profit share but by per trade fee, we aim to provide the best binary options platform on the market by providing a provably fair,  
 guaranteed Payout, 100% transparency, highest reward rate and best user freindly system to traders, obtaining more daily trade volume to make more profit.
 
-Builded on 100% onchain, we fetch aseet price data from an orcale by using Orcalize service running on smart contract. We will use a buildin wallet to fetch start time 
+Builded on 100% onchain, we fetch aseet price data from an orcale by using Orcalize service running on smart contract. We will use a buildin wallet to fetch start time price and pass it to smart contarct, compare the start time price, expiry price and reward winning traders immediately by smart contract. No additional database and  serverside needed. No cheating and scam can be happened. No delay payments and deny payments. Although we will simplify this on MVP version, but it will be implemented eventually.
 
-price and pass it to smart contarct, compare the start time price, expiry price and reward winning traders immediately by smart contract. No additional database and 
-
-serverside needed. No cheating and scam can be happened. No delay payments and deny payments. Although we will simplify this on MVP version, but it will be implemented 
-
-eventually.
-
-OPT - BlockOptions.io internal token - is used to divident 100% of the profit generating by BlockOptions.io platform and as second in-game currency. OPT token is a standard 
-
-Ethereum ERC20 token.
+OPT - BlockOptions.io internal token - is used to divident 100% of the profit generating by BlockOptions.io platform and as second in-game currency. OPT token is a standard Ethereum ERC20 token.
 
 We will release a MVP in july 2017 and publish further development plans according to the roadmap after ICO.
 
-
 1.1 Binary Options Industry
-Binary options "are based on a simple 'yes' or 'no' proposition: Will an underlying asset be above a certain price at a certain time?[3] And binary options are often 
-
-considered a form of gambling rather than investment because of their negative cumulative payout (the brokers have an edge over the investor) and because they require 
-
-little or no knowledge of the markets. And "this sort of thing can quickly become addictive... no one, no matter how knowledgeable, can consistently predict what a stock or 
-
-commodity will do within a short time frame."[4]
+Binary options "are based on a simple 'yes' or 'no' proposition: Will an underlying asset be above a certain price at a certain time?[3] And binary options are often considered a form of gambling rather than investment because of their negative cumulative payout (the brokers have an edge over the investor) and because they require  
+little or no knowledge of the markets. And "this sort of thing can quickly become addictive... no one, no matter how knowledgeable, can consistently predict what a stock or commodity will do within a short time frame."[4]
 
 The biggest Binary options platfrom in United States made almost 1M profit per day. IG Group, One of the top company made $305.1 million of net trading revenue in 2016.[5].
 
-Binary options seems have more funs compare to dice game, and there are not a leading blockchain binary options platform running right now. BlockOptions.io will have big 
-
-potential to be the No.1 blockchain binary options platform on market.
+Binary options seems have more funs compare to dice game, and there are not a leading blockchain binary options platform running right now. BlockOptions.io will have big potential to be the No.1 blockchain binary options platform on market.
 
 
 1.2. Common Issues in Binary Options Industry
-
 Some of the existing issues in the market of binary options that lockOptions.io can solve:
 
-Funding 
+Price data feed manipulating - only a tiny changes can influence the result of trade. By using BlockOptions.io no one can change the price data as it's fetching by smart contract and stored in blockchain.
 
-Price data feed manipulating - only a tiny changes can influence the result of trade. By using BlockOptions.io no one can change the price data as it's fetching by smart 
+Deley or block withdraw - When a binary options broker deley or block your withdraw, you can't do anything about it. By using BlockOptions.io you will be rewarded direct to your ETH address by smart contract automaticly and immediately.
 
-contract and stored in blockchain.
+Not safe funds -  "On non-regulated platforms, client money is not necessarily kept in a trust account, as required by government financial regulation, and transactions are not monitored by third parties in order to ensure fair play.[7]" By using BlockOptions.io, every transaction and bankroll funds are viewable on ethereum blockchain. Traders will get guaranteed payout if they win.
 
-Deley or block withdraw - When a binary options broker deley or block your withdraw, you can't do anything about it. By using BlockOptions.io you will be rewarded direct to 
+Not provably fair game - Trades bet against brokers/platform in traditional platform, it can't be provably fair even it's a regulation platform. Traders bet against bankrollers in BlockOptions.io and win rates and rewards rate are 100% transparent and unchangeable.
 
-your ETH address by smart contract automaticly and immediately.
 
-Not safe funds -  "On non-regulated platforms, client money is not necessarily kept in a trust account, as required by government financial regulation, and transactions are 
-
-not monitored by third parties in order to ensure fair play."[7] By using BlockOptions.io, every transaction and bankroll funds are viewable on ethereum blockchain. Traders 
-
-will get guaranteed payout if they win.
-
-Not provably fair game - Trades bet against brokers/platform in traditional platform, it can't be provably fair even it's a regulation platform. Traders bet against 
-
-bankrollers in BlockOptions.io and win rates and rewards rate are 100% transparent and unchangeable.
-
-Company shut doun or run away - Traders will lost all their money if broker company shut doun or run away. It's a worst situation many traders faces. By using 
-
-BlockOptions.io all funds are safe even the BlockOptions.io platform can't be access as all funds is stored on ethereum blockchain. 
-
-Server or account hacked - In BlockOptions.io all your trades and funds are safer than traditional platform as it's impossible to hack the ethereum blockchain.
 
 
 
@@ -247,15 +208,10 @@ Conclusion
 
 [1]Binary options worth $1.25b to Israel's GDP in 2016 http://www.globes.co.il/en/article-binary-options-worth-125b-to-israel-gdp-in-2016-1001166968
 [2]How the binary options industry works? and How do binary options brokers make their money? http://www.wvwv.org/binary-options-brokers/
-[3]Mitchell, Cory (11 June 2014). "A Guide To Trading Binary Options In The U.S.". Investopedia. Retrieved 17 December 2016. http://www.investopedia.com/articles/active-
-
+[3]Mitchell, Cory (11 June 2014). "A Guide To Trading Binary Options In The U.S.". Investopedia. Retrieved 17 December 2016. http://www.investopedia.com/articles/active- 
 trading/061114/guide-trading-binary-options-us.asp
-[4]Pape, Gordon (27 July 2010). "Don’t Gamble On Binary Options". Forbes.com. Archived from the original on 2013-06-21. Retrieved 15 April 2011. 
-
+[4]Pape, Gordon (27 July 2010). "Don’t Gamble On Binary Options". Forbes.com. Archived from the original on 2013-06-21. Retrieved 15 April 2011.  
 https://web.archive.org/web/20130621142514/http://www.forbes.com/sites/investor/2010/07/27/dont-gamble-on-binary-options/print/
 [5]IG Group Reports Record Revenues, Pulls Back on Binary Options http://www.financemagnates.com/forex/brokers/ig-group-reports-record-revenues-pulls-back-binaries/
-[7] "warning against unauthorised websites offering binary options trading". AMF. Retrieved 14 January 2012. 
-
-http://www.fma.gv.at/de/verbraucher/investorenwarnungen/internationale-warnmeldungen/detail-internatwm/article/warning-against-unauthorised-websites-offering-binary-
-
-options-trading.html
+[7] "warning against unauthorised websites offering binary options trading". AMF. Retrieved 14 January 2012.  
+http://www.fma.gv.at/de/verbraucher/investorenwarnungen/internationale-warnmeldungen/detail-internatwm/article/warning-against-unauthorised-websites-offering-binary-options-trading.html
