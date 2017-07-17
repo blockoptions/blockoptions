@@ -147,7 +147,6 @@ We aim to provide the best binary options platform on the market by providing a 
 
 
 **2.2.2 Quote provider**
-
 ----------
 
 
