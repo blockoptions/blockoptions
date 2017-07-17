@@ -479,6 +479,8 @@ To reach us visit our website at https://blockoptions.io or send us a email to s
 
 
 
+**References**
+-------------
 
 [1]Binary options worth $1.25b to Israel's GDP in 2016 http://www.globes.co.il/en/article-binary-options-worth-125b-to-israel-gdp-in-2016-1001166968
 [2]How the binary options industry works? and How do binary options brokers make their money? http://www.wvwv.org/binary-options-brokers/
