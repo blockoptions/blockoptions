@@ -481,20 +481,25 @@ To reach us visit our website at https://blockoptions.io or send us a email to s
 -------------
 
 [1]Binary options worth $1.25b to Israel's GDP in 2016 http://www.globes.co.il/en/article-binary-options-worth-125b-to-israel-gdp-in-2016-1001166968
+
 [2]How the binary options industry works? and How do binary options brokers make their money? http://www.wvwv.org/binary-options-brokers/
-[3]Mitchell, Cory (11 June 2014). "A Guide To Trading Binary Options In The U.S.". Investopedia. Retrieved 17 December 2016. http://www.investopedia.com/articles/active-
 
-trading/061114/guide-trading-binary-options-us.asp
+[3]Mitchell, Cory (11 June 2014). "A Guide To Trading Binary Options In The U.S.". Investopedia. Retrieved 17 December 2016. http://www.investopedia.com/articles/active-trading/061114/guide-trading-binary-options-us.asp
+
 [4]Pape, Gordon (27 July 2010). "Don’t Gamble On Binary Options". Forbes.com. Archived from the original on 2013-06-21. Retrieved 15 April 2011. 
-
 https://web.archive.org/web/20130621142514/http://www.forbes.com/sites/investor/2010/07/27/dont-gamble-on-binary-options/print/
-[5]IG Group Reports Record Revenues, Pulls Back on Binary Options http://www.financemagnates.com/forex/brokers/ig-group-reports-record-revenues-pulls-back-binaries/
-[6] "warning against unauthorized websites offering binary options trading". AMF. Retrieved 14 January 2012. 
 
+[5]IG Group Reports Record Revenues, Pulls Back on Binary Options http://www.financemagnates.com/forex/brokers/ig-group-reports-record-revenues-pulls-back-binaries/
+
+[6] "warning against unauthorized websites offering binary options trading". AMF. Retrieved 14 January 2012. 
 http://www.fma.gv.at/de/verbraucher/investorenwarnungen/internationale-warnmeldungen/detail-internatwm/article/warning-against-unauthorised-websites-offering-binary-options-trading.html
+
 [7] Cryptocompare https://www.cryptocompare.com/about-us/
+
 [8] xignite  http://www.xignite.com/market-data/about/
+
 [9] Oraclize Overview  http://docs.oraclize.it/#overview
+
 [10] https://en.wikipedia.org/wiki/Binary_option#Regulation.2C_and_fraud
 
 
