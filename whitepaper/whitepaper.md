@@ -373,6 +373,7 @@ We will use smart contract service oraclize.it to fetch price from quote provide
 ![enter image description here](http://i.imgur.com/uywCNY5.jpg)
 ----------
 *3.2.3 The UI of MVP:*
+
 ![enter image description here](http://i.imgur.com/G70YzITg.jpg)
 
 The MVP will be release online for test, test address https://demo.blockoptions.io/ (will be online soon)
