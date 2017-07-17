@@ -147,7 +147,6 @@ We aim to provide the best binary options platform on the market by providing a 
 
 
 **2.2.2 Quote provider**
-----------
 
 
 
@@ -218,7 +217,7 @@ Bankrollers send ETH or OPT to create an asset contract or back existent contrac
 Affiliates send new traders to BlockOptions.io Platform and get paid with ETH from affiliate smart contract.
 
 
-2.3 Token
+*2.3 Token*
 ---------
 
 
@@ -281,7 +280,7 @@ Legel and others  | 20%
 
 OPTS also a second in-trade currency besides ETH, it will add value to token and raise price by high market demand.
 
-2.4 Roadmap
+*2.4 Roadmap*
 -----------
 
 
@@ -325,8 +324,8 @@ ICO continue.
 
 
 
-**3.1 How the traditional binary options brokers works**
-
+*3.1 How the traditional binary options brokers works*
+-------------
 The traditional binary options platform also known as the only brokers trade against traders. Traders register/login to system, funding with fiat money via credit card/PayPal/Wire transfer to broker’s account, get account credited after broker’s auditing. Trading and rewarding by broker’s server side, the price feed also provided by broker’s server side. And how much and when get your withdraw also processed by brokers. It can’t be a provably fair game as brokers makes money while traders lost.
 
 ![enter image description here](http://i.imgur.com/PstBQ5f.jpg)
@@ -344,7 +343,7 @@ So we are going to rebuild the binary option industry with blockchain technology
 
 
 
-3.2 First 100% on onchain binary options platform
+*3.2 First 100% on onchain binary options platform*
 -------------------------------------------------
 
 
@@ -387,7 +386,7 @@ Although the MVP is a 100% onchain system, with auto reward, 100% transparent, c
 
 
 
-**3.3 Build-in wallet version on public chain**
+*3.3 Build-in wallet version on public chain*
 ----------
 
 
@@ -423,7 +422,7 @@ This version fixes the start time delay and expiry time not accurate problem plu
 
 
 
-**3.4 Build a less TX fee platform**
+*3.4 Build a less TX fee platform*
 ----------
 
 
