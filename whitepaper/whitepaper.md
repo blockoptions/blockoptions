@@ -6,7 +6,9 @@
 *Decentralized Binary Options Platform Powered By Ethereum Blockchain*
 
 *Gary Luo, Asonganyi Derick*
+
 *Draft by Gary July the 10th 2017*
+
 *https://blockoptions.io*
 
 
@@ -142,11 +144,11 @@ We aim to provide the best binary options platform on the market by providing a 
 
 
 
-----------
+
 
 **2.2.2 Quote provider**
 
-
+----------
 
 
 
@@ -172,14 +174,12 @@ S&P500
 etc..
 
 
-----------
 **2.2.3 Ethereum Blockchain**
 
 
 
 BlockOptions.io’s token contract and trading contracts will be deployed on Ethereum blockchain. Trader and Bankroller’s funds are  also stored on ethereum blockchain.
 
-----------
 **2.2.4 Oracle**
 
 
@@ -187,7 +187,6 @@ In a nutshell, an oracle is something (or someone) that provides data to blockch
 
 Oracles are necessary because it is inefficient and often impossible to reach a decentralized consensus on centralized data. [9]
 
-----------
 
 **2.2.5 Trade Smart Contract**
 
@@ -195,7 +194,6 @@ Oracles are necessary because it is inefficient and often impossible to reach a 
 
 Asset’s start time price, expiry price stored in smart contract and rewards also issued by smart contract on ethereum blockchain.
 
-----------
 
 **2.2.6 Traders**
 
@@ -203,7 +201,6 @@ Asset’s start time price, expiry price stored in smart contract and rewards al
 Traders send ETH or OPT directly to asset’s smart contract to trade, and get reward by smart contract automatically.
 
 
-----------
 
 
 **2.2.7 Bankrollers**
@@ -213,7 +210,6 @@ Traders send ETH or OPT directly to asset’s smart contract to trade, and get r
 Bankrollers send ETH or OPT to create an asset contract or back existent contracts and make profit from bankrolling. Profits issued by smart contract.
 
 
-----------
 
 
 **2.2.8 Affiliates**
@@ -242,7 +238,6 @@ No min. cap.
 
 Blockoptions Tokens can be purchased with Ethereum only. All funds will be held in cold storage.
 
-----------
 **2.3.2 Token distributio**
 
 **18 million** will be available for sale to tokensale participants. **No sold tokens will be burned.**
@@ -271,7 +266,6 @@ PRE-ICO   | 24July, 2017 -31, July, 2017
 ICO  | 15, Aug. 2017 - 15, Sep. 2017
 
 
-----------
 
 
 **2.3.3 ICO Fund usage**
@@ -284,12 +278,10 @@ Marketing         | 40%
 Legel and others  | 20%
 
 
-----------
 **2.3.4 As in-trade currency**
 
 OPTS also a second in-trade currency besides ETH, it will add value to token and raise price by high market demand.
 
-----------
 2.4 Roadmap
 -----------
 
@@ -301,7 +293,6 @@ OPTS also a second in-trade currency besides ETH, it will add value to token and
 
 Release MVP and Pre-ICO start.
 
-----------
 
 
 **2.4.2. Sep. 2017**
@@ -313,7 +304,6 @@ Token dividend contract and affiliate contract completed.
 ICO continue.
 
 
-----------
 
 
 **2.4.3. Q4, 2017**
@@ -327,7 +317,6 @@ ICO continue.
  - Public released on Dec. 2017 and more marketing budget and PR, we aid to build the No.1 blockchain binary option brand.
 
 
-----------
 
 
 **3. How we achieve the 100% onchain platform**
@@ -335,7 +324,6 @@ ICO continue.
 *To achieve the 100% onchain platform, BlockOptions.io won’t need account registration, off-chain server side, additional database, man power to audit funding/trading/withdrawing, but only reply on ethereum blockchain.*
 
 
-----------
 
 
 **3.1 How the traditional binary options brokers works**
@@ -354,7 +342,6 @@ There are  so many problems with these types of companies and so many scams, so 
 So we are going to rebuild the binary option industry with blockchain technology following this steps in the list below:
 
 
-----------
 
 
 3.2 First 100% on onchain binary options platform
@@ -369,7 +356,6 @@ So we are going to rebuild the binary option industry with blockchain technology
 We will use smart contract service oraclize.it to fetch price from quote provider’s API to insure that the price data is accurate and can not be changed. 
 
 
-----------
 
 
 *3.2.2 MVP*
@@ -399,7 +385,6 @@ Although the MVP is a 100% onchain system, with auto reward, 100% transparent, c
  - Expiry price is not exactly e.g 2 Min. later price, the perdition is not traders wanted.
 
 
-----------
 
 
 **3.3 Build-in wallet version on public chain**
@@ -438,7 +423,6 @@ This version fixes the start time delay and expiry time not accurate problem plu
    rise in future and it is about $$1 per TX fee at the price of $300
    per ETH).
 
-----------
 
 
 **3.4 Build a less TX fee platform**
