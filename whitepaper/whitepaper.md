@@ -243,6 +243,7 @@ Blockoptions Tokens can be purchased with Ethereum only. All funds will be held 
 **0.5 million** will be for ICO bounties and dev. reward without vesting
 
 *Early Discounts*
+
 Time       | Price
 --------   | ---
 1st week 17%   | 1ETH : 120
@@ -257,7 +258,8 @@ The pre-sale has a cap of 7142 ETH. Email: support@blockoptions.io if you would 
 *Profit Distribution*
 BlockOptions.io Platform didn't make money from traders loss but by fee per trade (planning charge 0.005-0.01 ETH per trade, actual fee per trade will be published before public version released), and 100% of the profit will be dividented to token holders via token reward smart contract.
 
- *ICO Time*
+ **ICO Time**
+ 
 Phase       | ICO time
 --------   | --------
 PRE-ICO   | 24July, 2017 -31, July, 2017
