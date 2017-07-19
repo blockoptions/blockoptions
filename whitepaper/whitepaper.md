@@ -146,7 +146,7 @@ We will release a MVP in July 2017 and publish further development plans accordi
 
 Built 100% on blockchain, BlockOptions.io fetch asset price data from an oracle by using Orcalize service running on smart contract. We will use a build-in wallet to fetch start time price and pass it to smart contract, compare the start time price, expiry price and reward winning traders immediately by smart contract. No additional database and server-side needed. Not even the slightest window for cheating and scams. No delay payments and deny payments. Although we will simplify this on MVP version, but it will be implemented eventually.
 
-![enter image description here](http://i.imgur.com/sfK7aN7g.jpg)
+![enter image description here](http://i.imgur.com/R0wmDs2.jpg)
 
 
 *2.2 Roles*
