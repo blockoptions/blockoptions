@@ -282,7 +282,7 @@ BlockOptions.io Platform didn't make money from traders loss but by fee per trad
  
 Phase       | ICO time
 --------   | --------
-PRE-ICO   | 24July, 2017 -31, July, 2017
+PRE-ICO   | To be updated
 ICO  | 15, Aug. 2017 - 15, Sep. 2017
 
 
