@@ -278,12 +278,12 @@ The pre-sale has a cap of 7142 ETH. Email: support@blockoptions.io if you would 
 *Profit Distribution*
 BlockOptions.io Platform didn't make money from traders loss but by fee per trade (planning charge 0.005-0.01 ETH per trade, actual fee per trade will be published before public version released), and 100% of the profit will be dividented to token holders via token reward smart contract.
 
- **ICO Time**
+ **Tokensale Time**
  
-Phase       | ICO time
+Phase      | Time
 --------   | --------
-PRE-ICO   | Update soon
-ICO  | 15, Aug. 2017 - 15, Sep. 2017
+Pre-sale   | Update soon
+Tokensale  | 15, Aug. 2017 - 15, Sep. 2017
 
 
 
