@@ -11,6 +11,9 @@
 
 *https://blockoptions.io*
 
+**Table of contents**
+-------------
+
 - [**BLOCKOPTIONS**](#--blockoptions--)
   * [**Abstract**](#--abstract--)
   * [**1. Introduction**](#--1-introduction--)
