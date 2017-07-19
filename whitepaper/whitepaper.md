@@ -350,7 +350,7 @@ ICO continue.
 -------------
 The traditional binary options platform also known as the only brokers trade against traders. Traders register/login to system, funding with fiat money via credit card/PayPal/Wire transfer to broker’s account, get account credited after broker’s auditing. Trading and rewarding by broker’s server side, the price feed also provided by broker’s server side. And how much and when get your withdraw also processed by brokers. It can’t be a provably fair game as brokers makes money while traders lost.
 
-![enter image description here](http://i.imgur.com/PstBQ5f.jpg)
+![enter image description here](http://i.imgur.com/gF45vcw.jpg)
 
 
 *3.1.1 Traditional binary option sites using Bitcoin*
@@ -392,7 +392,7 @@ We will use smart contract service oraclize.it to fetch price from quote provide
     smart contract with expiry price, traders get e.g. 175% of trading
     amount as reward by trading smart contract if win or 1 gwei if lost.
 
-![enter image description here](http://i.imgur.com/uywCNY5.jpg)
+![enter image description here](http://i.imgur.com/pUZJ61T.jpg)
 ----------
 *3.2.3 The UI of MVP:*
 
@@ -432,6 +432,9 @@ So a build-in wallet version is needed. It will fix the start time delay, expiry
     smart contract with expiry price, traders get e.g. 175% of trading
     amount as reward by trading smart contract if win or 1 gwei if lost.
 
+![enter image description here](http://i.imgur.com/EOfZkaI.jpg)
+
+
 The UI of build-in wallet version will be similar to this, with one click traders can start a trade on site, no need to open 3rd wallet.
 
 ![enter image description here](http://i.imgur.com/k9vrQWmg.jpg)
@@ -459,7 +462,7 @@ In this version we would like to achieve a less TX fee but still 100% onchain pl
     in private chain, and the reward is stored in private chain too.
     When traders would like to end trades, BlockOptions.io will transfer
     the fund to public chain from private chain.
-![enter image description here](http://i.imgur.com/3vYQj2Sg.jpg)
+![enter image description here](http://i.imgur.com/ARmFAqI.jpg)
 
 Although in last version, the traders only need to pay once TX fee, but other TX fees still come from traders in the end. BlockOptions.io can provide the highest reward rate to traders only by reducing any costs as much as possible, in private chain + public chain version, we also can reduce the Oraclize service’s cost by bring in are own oracle service. 
 
