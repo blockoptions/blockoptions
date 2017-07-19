@@ -11,9 +11,26 @@
 
 *https://blockoptions.io*
 
-
-[TOC]
-
+- [**BLOCKOPTIONS**](#--blockoptions--)
+  * [**Abstract**](#--abstract--)
+  * [**1. Introduction**](#--1-introduction--)
+  * [*1.1 Binary Options Industry*](#-11-binary-options-industry-)
+  * [*1.2. Common Issues in Binary Options Industry*](#-12-common-issues-in-binary-options-industry-)
+  * [*1.3 The following table compares typical binaty options broker and BlockOptions.io platform.*](#-13-the-following-table-compares-typical-binaty-options-broker-and-blockoptionsio-platform-)
+  * [**2. The Platform**](#--2-the-platform--)
+  * [*2.1 How it works?*](#-21-how-it-works--)
+  * [*2.2 Roles*](#-22-roles-)
+  * [*2.3 Token*](#-23-token-)
+  * [*2.4 Roadmap*](#-24-roadmap-)
+  * [**3. How we achieve the 100% onchain platform**](#--3-how-we-achieve-the-100--onchain-platform--)
+  * [*3.1 How the traditional binary options brokers works*](#-31-how-the-traditional-binary-options-brokers-works-)
+  * [*3.2 First 100% on onchain binary options platform*](#-32-first-100--on-onchain-binary-options-platform-)
+  * [*3.3 Build-in wallet version on public chain*](#-33-build-in-wallet-version-on-public-chain-)
+  * [*3.4 Build a less TX fee platform*](#-34-build-a-less-tx-fee-platform-)
+  * [**Conclusion**](#--conclusion--)
+  * [**DISCLAIMER**](#--disclaimer--)
+  * [**Contact**](#--contact--)
+  * [**References**](#--references--)
 
 **Abstract**
 -------------
