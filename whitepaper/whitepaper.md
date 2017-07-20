@@ -350,7 +350,7 @@ ICO continue.
 -------------
 The traditional binary options platform also known as the only brokers trade against traders. Traders register/login to system, funding with fiat money via credit card/PayPal/Wire transfer to broker’s account, get account credited after broker’s auditing. Trading and rewarding by broker’s server side, the price feed also provided by broker’s server side. And how much and when get your withdraw also processed by brokers. It can’t be a provably fair game as brokers makes money while traders lost.
 
-![enter image description here](http://i.imgur.com/gF45vcw.jpg)
+![enter image description here](http://i.imgur.com/T4UKlrY.jpg)
 
 
 *3.1.1 Traditional binary option sites using Bitcoin*
@@ -462,7 +462,7 @@ In this version we would like to achieve a less TX fee but still 100% onchain pl
     in private chain, and the reward is stored in private chain too.
     When traders would like to end trades, BlockOptions.io will transfer
     the fund to public chain from private chain.
-![enter image description here](http://i.imgur.com/ARmFAqI.jpg)
+![enter image description here](http://i.imgur.com/VDKL0cZ.jpg)
 
 Although in last version, the traders only need to pay once TX fee, but other TX fees still come from traders in the end. BlockOptions.io can provide the highest reward rate to traders only by reducing any costs as much as possible, in private chain + public chain version, we also can reduce the Oraclize service’s cost by bring in are own oracle service. 
 
