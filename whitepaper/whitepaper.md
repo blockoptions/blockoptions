@@ -397,7 +397,7 @@ We will use smart contract service oraclize.it to fetch price from quote provide
 
 ![enter image description here](http://i.imgur.com/G70YzITg.jpg)
 
-The MVP will be release online for test, test address https://demo.blockoptions.io/ (will be online soon)
+The MVP will be release online for test before tokensale, test address will be online soon.
 
 Although the MVP is a 100% onchain system, with auto reward, 100% transparent, can’t be manipulated, guaranteed payout and provably fair, but it have some weak points need to improve urgently.
 
