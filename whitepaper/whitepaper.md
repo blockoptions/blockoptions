@@ -266,14 +266,14 @@ Blockoptions Tokens can be purchased with Ethereum only. All funds will be held 
 
 Time       | Price
 --------   | ---
-1st week 17%   | 1ETH : 120
-2nd week 10%  | 1ETH : 110
-3-4th week no discount | 1ETH : 100
+1st week 20%   | 1ETH : 250
+2nd week 10%  | 1ETH : 220
+3-4th week no discount | 1ETH : 200
 
 *Pre-sale*
-You can purchase tokens with a 29% discount (**1ETH : 140**) in our pre-sale.
+You can purchase tokens with a 50% discount (**1ETH : 400**) in our pre-sale.
 
-The pre-sale has a cap of 7142 ETH. Email: support@blockoptions.io if you would like to participate.
+The pre-sale has a cap of 2500 ETH. Email: support@blockoptions.io if you would like to participate.
 
  **Tokensale Time**
  
