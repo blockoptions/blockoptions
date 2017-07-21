@@ -259,7 +259,9 @@ Blockoptions Tokens can be purchased with Ethereum only. All funds will be held 
 **2.3.2 Token distributio**
 
 **18 million** will be available for sale to tokensale participants. **No sold tokens will be burned.**
+
 **1.5 million** will be retained by Blockoptions for advisors, partners, hiring, future marketing and development with 2 years vesting, unlock 25% per 6 months.
+
 **0.5 million** will be for ICO bounties and dev. reward without vesting
 
 *Early Discounts*
