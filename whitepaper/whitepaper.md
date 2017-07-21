@@ -279,8 +279,8 @@ The pre-sale has a cap of 2500 ETH. Email: support@blockoptions.io if you would 
  
 Phase      | Time
 --------   | --------
-Pre-sale   | Update soon
-Tokensale  | 15, Aug. 2017 - 15, Sep. 2017
+Pre-sale   | 1, Aug. 2017  - 8, Aug. 2017
+Tokensale  | 25, Aug. 2017 - 25, Sep. 2017
 
 
 *Profit Distribution*
