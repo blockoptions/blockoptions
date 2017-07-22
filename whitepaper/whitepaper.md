@@ -14,10 +14,10 @@
 **Table of contents**
 -------------
 
-- [**BLOCKOPTIONS**](#--blockoptions--)
-  * [**Abstract**](#--abstract--)
-  * [**1. Introduction**](#--1-introduction--)
-  * [*1.1 Binary Options Industry*](#-11-binary-options-industry-)
+- [**BLOCKOPTIONS**](#blockoptions)
+  * [**Abstract**](#abstract)
+  * [**1. Introduction**](#introduction)
+  * [*1.1 Binary Options Industry*](#binary-options-industry)
   * [*1.2. Common Issues in Binary Options Industry*](#-12-common-issues-in-binary-options-industry-)
   * [*1.3 The following table compares typical binaty options broker and BlockOptions.io platform.*](#-13-the-following-table-compares-typical-binaty-options-broker-and-blockoptionsio-platform-)
   * [**2. The Platform**](#--2-the-platform--)
