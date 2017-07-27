@@ -14,3 +14,9 @@ listed and elaborated on in our white paper.
 Blockoptions enable you to operate in the binary options world either as a bank roller or trader safely, securely, faster with 
 
 less expense there by letting you profit more..
+
+Website: http://blockptions.io
+Email: support [@] blockoptions.io
+BCT ANN: https://bitcointalk.org/index.php?topic=2047320
+
+Join Our Slack: http://slack.blockoptions.io/ or QQ group: 450325068, 662121968
