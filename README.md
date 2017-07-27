@@ -15,8 +15,8 @@ Blockoptions enable you to operate in the binary options world either as a bank 
 
 less expense there by letting you profit more..
 
-Website: http://blockptions.io
-Email: support [@] blockoptions.io
-BCT ANN: https://bitcointalk.org/index.php?topic=2047320
+Website: http://blockptions.io <br/>
+Email: support [@] blockoptions.io<br/>
+BCT ANN: https://bitcointalk.org/index.php?topic=2047320<br/><br/>
 
 Join Our Slack: http://slack.blockoptions.io/ or QQ group: 450325068, 662121968
