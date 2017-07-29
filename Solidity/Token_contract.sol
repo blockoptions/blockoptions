@@ -51,6 +51,7 @@ contract blockoptions is ERC20
         uint counter=0;
         uint profit_sent=0;
         bool stopped = false;
+        
       function blockoptions(){
           owner = msg.sender;
           balances[owner] = totalSupply ; //to handle 8 decimal places
@@ -131,21 +132,25 @@ contract blockoptions is ERC20
     
     //Implementation for transferring BOPT to provided address 
       function transfer(address _to, uint _value) returns (bool){
- 
+
         uint check = balances[owner] - _value;
         if(msg.sender == owner && now>=pre_ico_start && now<=pre_ico_end && check < 1900000000000000)
         {
             return false;
         }
-        else if(msg.sender == owner && check < 112500000000000 && now < ico_start + 180 days)
+        else if(msg.sender ==owner && now>=pre_ico_end && now<=(pre_ico_end + 16 days) && check < 1850000000000000)
         {
             return false;
         }
-        else if (msg.sender == owner && check < 75000000000000 && now < ico_start + 360 days)
+        else if(msg.sender == owner && check < 150000000000000 && now < ico_start + 180 days)
         {
             return false;
         }
-        else if (msg.sender == owner && check < 37500000000000 && now < ico_start + 540 days)
+        else if (msg.sender == owner && check < 100000000000000 && now < ico_start + 360 days)
+        {
+            return false;
+        }
+        else if (msg.sender == owner && check < 50000000000000 && now < ico_start + 540 days)
         {
             return false;
         }
@@ -289,8 +294,8 @@ contract blockoptions is ERC20
         function endICO()onlyOwner
        {
           stopped=true;
-          if(balances[owner] > 1500000)
-          balances[owner] = 1500000;
+          if(balances[owner] > 2000000)
+          balances[owner] = 2000000;
            
        }
 
