@@ -137,15 +137,15 @@ contract blockoptions is ERC20
         {
             return false;
         }
-        else if(msg.sender == owner && check < 150000000000000 && now < ico_start + 180 days)
+        else if(msg.sender == owner && check < 112500000000000 && now < ico_start + 180 days)
         {
             return false;
         }
-        else if (msg.sender == owner && check < 100000000000000 && now < ico_start + 360 days)
+        else if (msg.sender == owner && check < 75000000000000 && now < ico_start + 360 days)
         {
             return false;
         }
-        else if (msg.sender == owner && check < 50000000000000 && now < ico_start + 540 days)
+        else if (msg.sender == owner && check < 37500000000000 && now < ico_start + 540 days)
         {
             return false;
         }
@@ -289,8 +289,8 @@ contract blockoptions is ERC20
         function endICO()onlyOwner
        {
           stopped=true;
-          if(balances[owner] > 2000000)
-          balances[owner] = 2000000;
+          if(balances[owner] > 1500000)
+          balances[owner] = 1500000;
            
        }
 
