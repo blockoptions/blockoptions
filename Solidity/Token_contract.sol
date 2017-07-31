@@ -217,7 +217,7 @@ contract blockoptions is ERC20
 	
     	function() payable 
     	{   
-    	    if(!stopped)
+    	    if(stopped)
     	    revert();
     	     else if(msg.sender == owner)
     	    {
@@ -294,8 +294,8 @@ contract blockoptions is ERC20
         function endICO()onlyOwner
        {
           stopped=true;
-          if(balances[owner] > 2000000)
-          balances[owner] = 2000000;
+          if(balances[owner] > 1500000)
+          balances[owner] = 1500000;
            
        }
 
@@ -332,4 +332,4 @@ contract blockoptions is ERC20
                
           }
 
-} 
+}
