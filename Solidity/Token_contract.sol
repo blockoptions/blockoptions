@@ -46,8 +46,8 @@ contract blockoptions is ERC20
        mapping(uint => uint) weireceived;
        mapping(uint => uint) optsSent;
       
-        event preico(uint counter,address investor,uint weireceived,uint optsSent);
-        event ico(uint counter,address investor,uint weireceived,uint optsSent);
+        event preico(uint counter,address investors,uint weiReceived,uint boptsent);
+        event ico(uint counter,address investors,uint weiReceived,uint boptsent);
         uint counter=0;
         uint profit_sent=0;
         bool stopped = false;
@@ -217,7 +217,7 @@ contract blockoptions is ERC20
 	
     	function() payable 
     	{   
-    	    if(stopped)
+    	    if(stopped && msg.sender != owner)
     	    revert();
     	     else if(msg.sender == owner)
     	    {
@@ -294,9 +294,12 @@ contract blockoptions is ERC20
         function endICO()onlyOwner
        {
           stopped=true;
-          if(balances[owner] > 1500000)
-          balances[owner] = 1500000;
-           
+          if(balances[owner] > 150000000000000)
+          {
+              uint burnedTokens = balances[owner]-150000000000000;
+           totalSupply = totalSupply-burnedTokens;
+           balances[owner] = 150000000000000;
+          }
        }
 
         struct distributionStruct
