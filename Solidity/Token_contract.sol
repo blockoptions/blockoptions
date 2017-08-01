@@ -52,7 +52,7 @@ contract blockoptions is ERC20
         uint profit_sent=0;
         bool stopped = false;
         
-      function blockoptions(){
+      function blockoptions() payable{
           owner = msg.sender;
           balances[owner] = totalSupply ; //to handle 8 decimal places
           pre_ico_start = now;
