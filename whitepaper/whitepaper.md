@@ -7,7 +7,7 @@
 
 *Gary Luo, Asonganyi Derick*
 
-*Draft by Gary July the 4th 2017, last updated: 2th, Aug, 2017*
+*Draft by Gary July the 4th 2017, last updated: 20th, Aug, 2017*
 
 *https://blockoptions.io*
 
