@@ -146,7 +146,7 @@ We will release an MVP in July 2017 and publish further development plans accord
 
 Built 100% on blockchain, BlockOptions.io fetches asset price data from an oracle by using Orcalize service running on smart contract. We will use a build-in wallet to fetch start time price and pass it to smart contract, compare the start time price, expiry price and reward winning traders immediately by smart contract. No additional database and server-side needed. Not even the slightest window for cheating and scams. No delay payments and deny payments. Although we will simplify this in the MVP version, but it will be implemented eventually.
 
-![enter image description here](http://i.imgur.com/mNh9FEh.jpg)
+![enter image description here](https://i.imgur.com/7kzJtZU.png)
 
 
 *2.2 Roles*
@@ -351,7 +351,7 @@ ICO continue.
 -------------
 The traditional binary options platform also known as the only brokers trade against traders. Traders register/login to system, funding with fiat money via credit card/PayPal/Wire transfer to broker’s account, get account credited after broker’s auditing. Trading and rewarding by broker’s server side, the price feed also provided by broker’s server side. And how much and when traders get their withdraw is also processed by brokers. It can’t be a provably fair game as brokers makes money while traders loss.
 
-![enter image description here](http://i.imgur.com/T4UKlrY.jpg)
+![enter image description here](https://i.imgur.com/VVzhlmc.png)
 
 
 *3.1.1 Traditional binary option sites using Bitcoin*
@@ -393,11 +393,11 @@ We will use smart contract service oraclize.it to fetch price from quote provide
     smart contract with expiry price, traders get e.g. 175% of trading
     amount as reward by trading smart contract if win or 1 gwei if lost.
 
-![enter image description here](http://i.imgur.com/pUZJ61T.jpg)
+![enter image description here](https://i.imgur.com/KMQ2bCN.png)
 ----------
 *3.2.3 The UI of MVP:*
 
-![enter image description here](http://i.imgur.com/G70YzITg.jpg)
+![enter image description here](https://i.imgur.com/Wa61IXd.png)
 
 The MVP will be release online for test before tokensale, test address will be online soon.
 
@@ -433,12 +433,12 @@ So a build-in wallet version is needed. It will fix the start time delay, expiry
     smart contract with expiry price, traders get e.g. 175% of trading
     amount as reward by trading smart contract if win or 1 gwei if lost.
 
-![enter image description here](http://i.imgur.com/EOfZkaI.jpg)
+![enter image description here](https://i.imgur.com/zsZs9Y6.png)
 
 
 The UI of build-in wallet version will be similar to this, with one click traders can start a trade on site, no need to open 3rd wallet.
 
-![enter image description here](http://i.imgur.com/k9vrQWmg.jpg)
+![enter image description here](https://i.imgur.com/761HS1b.png)
 
 This version fixes the start time delay and expiry time not accurate problem plus all advantages MVP had. But still have a shortage: 
 
@@ -463,7 +463,7 @@ In this version we would like to achieve a less TX fee but still 100% onchain pl
     in private chain, and the reward is stored in private chain too.
     When traders would like to end trades, BlockOptions.io will transfer
     the fund to public chain from private chain.
-![enter image description here](http://i.imgur.com/VDKL0cZ.jpg)
+![enter image description here](https://i.imgur.com/8j1QL4h.png)
 
 Although in the last version, the traders only need to pay one TX fee, but other TX fees still come from traders in the end. BlockOptions.io can provide the highest reward rate to traders only by reducing any costs as much as possible, in private chain + public chain version, we also can reduce the Oraclize service’s cost by bring in are own oracle service. 
 
