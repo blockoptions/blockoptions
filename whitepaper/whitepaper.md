@@ -7,7 +7,7 @@
 
 *Gary Luo, Asonganyi Derick*
 
-*Draft by Gary July the 4th 2017, last updated: 20th, Aug, 2017*
+*Draft by Gary July the 4th 2017, last updated: 30th, Nov, 2017*
 
 *https://blockoptions.io*
 
@@ -133,10 +133,10 @@ Some of the existing issues in the binary options market that blockOptions.io ca
 
 
 
-Blockoptions.io is the first decentralized binary options platform based on ethereum blockchain with BOPT (a standard etheriun ERC20 token) used as an in-trade currency and profit dividend token. Blockoptions.io completely and permanently eradicate the inauspicious decease called 'TRUST' which is undoubtedly killing the binary options industry from inside out.
+Blockoptions.io is the first decentralized binary options platform based on ethereum blockchain with BOP (a standard etheriun ERC20 token) used as an in-trade currency and profit dividend token. Blockoptions.io completely and permanently eradicate the inauspicious decease called 'TRUST' which is undoubtedly killing the binary options industry from inside out.
 
 
-BOPT - BlockOptions.io internal token - is used as dividend (100% of the profit generating by BlockOptions.io platform goes to token holders as dividend) and as second in-game currency. 
+BOP - BlockOptions.io internal token - is used as dividend (100% of the profit generating by BlockOptions.io platform goes to token holders as dividend) and as second in-game currency. 
 
 We will release an MVP in July 2017 and publish further development plans according to the road-map after ICO.
 
@@ -216,7 +216,7 @@ Asset’s start time price, expiry price stored in smart contract and rewards al
 **2.2.6 Traders**
 
 
-Traders send ETH or BOPT directly to asset’s smart contract to trade, and get rewarded by smart contract automatically.
+Traders send ETH or BOP directly to asset’s smart contract to trade, and get rewarded by smart contract automatically.
 
 
 
@@ -225,7 +225,7 @@ Traders send ETH or BOPT directly to asset’s smart contract to trade, and get 
 
 
 
-Bankrollers send ETH or BOPT to create an asset contract or back existintg contracts and make profit from bankrolling. Profits issued by smart contract.
+Bankrollers send ETH or BOP to create an asset contract or back existintg contracts and make profit from bankrolling. Profits issued by smart contract.
 
 
 
@@ -301,7 +301,7 @@ Legel and others  | 20%
 
 **2.3.4 As in-trade currency**
 
-BOPT also a second in-trade currency besides ETH, it will add value to token and raise price by high market demand.
+BOP also a second in-trade currency besides ETH, it will add value to token and raise price by high market demand.
 
 *2.4 Roadmap*
 -----------
